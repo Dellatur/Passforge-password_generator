@@ -1,0 +1,27 @@
+{
+  "name": "@yourname/passforge",
+  "version": "1.0.0",
+  "description": "Криптографически стойкий генератор случайных паролей с настраиваемыми наборами символов",
+  "main": "src/index.js",
+  "files": [
+    "src/"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "random",
+    "secure",
+    "crypto"
+  ],
+  "author": "Your Name <you@example.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
